@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cmosongo
-- 👀 I’m interested in blockchain development and python programming
-- 🌱 I’m currently learning code in solidity
-- 💞️ I’m looking to collaborate on data analysis and blockchain development
+- 👀 I’m interested in understanding the role of data in the world around me
+- 🌱 I’m currently learning code in js, c and advanced python 
+- 💞️ I’m looking to collaborate on software engineering, data analysis and machine learning
 - 📫 How to reach [Charles Mosongo on LinkedIn](https://www.linkedin.com/in/charles-mosongo/)
 
 <!---
